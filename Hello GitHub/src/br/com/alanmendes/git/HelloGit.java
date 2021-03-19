@@ -5,7 +5,7 @@ package br.com.alanmendes.git;
 
 /**
  * @author alanm
- * Exeplo de integração com o GITHUB
+ * Exeplo de integraÃ§Ã£o com o GITHUB
  */
 public class HelloGit {
 
@@ -13,6 +13,7 @@ public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("Hello Git");
 		System.out.println("Prof. Alan Mendes");
+		System.out.println("Adicionado no github");
 	}
 
 }
