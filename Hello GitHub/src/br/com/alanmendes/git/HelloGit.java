@@ -14,6 +14,7 @@ public class HelloGit {
 		System.out.println("Hello Git");
 		System.out.println("Prof. Alan Mendes");
 		System.out.println("Adicionado no github");
+		// alterado do eclipse
 	}
 
 }
